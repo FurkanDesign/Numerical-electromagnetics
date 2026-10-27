@@ -20,6 +20,4 @@ The system is solved using the following boundary conditions:
 - \(\phi(1,y) = 0\)
 - \(\phi(x,0) = 0\)
 - \(\phi(x,1) = 1\)
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   ```
+
